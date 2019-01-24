@@ -1,0 +1,97 @@
+https://www.darkreading.com/cloud/10-major-cloud-storage-security-slip-ups-(so-far)-this-year/d/d-id/1330122
+10/13/2017
+09:30 AM
+Kelly Sheridan
+Accenture is the latest in a string of major companies to expose sensitive cloud data this year, following Verizon, Deloitte, and Dow Jones.
+One of many concerning security trends from 2017 is the accidental exposure of cloud data via misconfigured Simple Storage Service (S3) buckets from Amazon Web Services.
+This year has been marked with several data leaks from major organizations, most recently Accenture.
+"While this incident is very unfortunate, it's not very surprising," says RedLock cofounder and CEO Varun Badhwar of the Accenture leak.
+Research from RedLock CSI (Cloud Security Intelligence) shows 53% of businesses using cloud storage services like AWS S3 have inadvertently exposed one or more of the service to the public Internet, up from 40% earlier in May.
+Researchers also found 38% of businesses have experienced the potential compromise of an administrative account in their public cloud.
+The trend underscores a dangerous problem common among businesses of all sizes, as well as the third parties with which they entrust sensitive information.
+Many don't take steps to properly configure their cloud storage accounts or don't take the time to verify the security practices of third-party firms.
+As a result, they compromise customers' data.
+"While you can offshore or outsource tasks and functions, you can never outsource the risks," said Chris Pierson, chief security officer at Viewpost, after the exposure of voter data from the Republican National Committee (RNC) via third-party misconfiguration back in June.
+"As such, every company that deals in sensitive or valuable data should have an information assurance program that risk rates their vendors, monitors them for security and other factors, and provides governance to the company regarding their third party and the risk appetite set by the company."
+Here, in no particular order, we round up ten major AWS leaks from this year, affecting everyone from Chicago voters to US government employees with Top Secret security clearance.
+Accenture
+The Cyber Risk Team at UpGuard recently discovered that Accenture left at least four AWS S3 storage buckets unsecured and publicly available for download.
+Accenture's slip-up exposed authentication credentials, secret API data, digital certificates, decryption keys, customer information, and other data that could be leveraged to target both Accenture and its clients - which include 94 of the Fortune Global 100 and more than 75% of the Fortune Global 500.
+All four exposed servers, the largest of which was 137GB, were configured for public access and could be downloaded by anyone who entered the buckets' Web address into their browser.
+All contained highly sensitive data about the Accenture Cloud Platform and clients who used it.
+One folder included a plaintext document with the master access key for Accenture's account with AWS Key Management Service, leaving an undisclosed amount of credentials vulnerable.
+The mistake could lead to an "untold amount" of financial damage, says UpGuard.
+An attacker could have used the keys to impersonate an Accenture employee and remain in the company's network to collect data, or launch password reuse attacks on multiple platforms.
+Viacom
+Viacom, the sixth-largest media company in the world and worth $18 billion, exposed internal access credentials and other critical data in a publicly downloadable AWS S3 cloud storage bucket.
+This could have let attackers take over its IT infrastructure or Internet presence.
+The mistake, discovered by UpGuard's director of Cyber Risk Research Chris Vickery, exposed a master provisioning server running Puppet, and credentials needed to build and manage Viacom servers across its subsidiaries and brands.
+More significantly, it exposed Viacom's secret cloud keys, which could enable attackers to take over its cloud-based servers.
+Leaving this information exposed could have compromised Viacom's servers, storage, or databases, as well as several cloud instances Viacom uses, including Docker, Splunk, New Relic, and Jenkins.
+UpGuard says Viacom is not alone in this level of data exposure, but it is significant in that it left such sensitive internal data so open to the public.
+ons of US-based Verizon customers.
+UpGuard, which reported the leak, put the number at 14 million but Verizon claimed only six million had data exposed.
+The cloud-based file repository, managed by a NICE Systems engineer, was reportedly created to log customer call data.
+Verizon uses the company's services in back-office and call-center operations.
+UpGuard notes the presence of customer phone numbers and their associated PIN numbers was especially concerning.
+With this information, attackers could pose as customers and gain access to their accounts.
+This incident demonstrated the danger of relying on a third-party vendor to handle sensitive data.
+NICE Systems had configured the repository to allow public access; it was fully downloadable to the public.
+Booz Allen Hamilton
+UpGuard's Vickery discovered 60,000 files on a publicly accessible S3 bucket owned by intelligence and defense contractor Booz Allen Hamilton.
+The cache of about 28GB of data included credentials for a senior engineer, passwords to a US government system, and a half-dozen unencrypted passwords for government contractors holding Top Secret Facility Clearance.
+The files contained several mentions of the US National Geospatial-Intelligence Agency (NGA), a combat support agency that works with government bodies like the CIA to gather geospatial data from spy satellites and drones.
+The exposed server also had master credentials for a data center operating system, and other credentials used to gain access to a Pentagon system.
+"It's of vital importance that no one can gain unauthorized access to national security information - but Booz Allen Hamilton put passwords and other sensitive information out there for the world to see," said US Senator Claire McCaskill, top-ranking Democrat on the Senate Homeland Security and Governmental Affairs Committee, following the incident.
+WWE
+Back in July, security researchers at Kromtech found a massive unprotected database belonging to World Wrestling Entertainment (WWE).
+The data was stored in an AWS S3 server, which did not have user-name or password protection and was accessible to anyone with the Web address.
+Researchers found two publicly accessible S3 buckets and it's estimated about 12% of all the information was set to Public access.
+The first unsecured bucket contained several sensitive pieces of customer information from 2014-2015 including names, physical and email addresses, birthdates, education, age, race, and their childrens' ages and genders.
+The total record count was 3,065,805.
+The second bucket contained another trove of data; this time from 2016 and specific to European customers.
+This included billing details: for example, addresses and user names, for hundreds of thousands of people.
+Other exposed documents included spreadsheets with social media tracking for WWE's social media counts, and a cache of Twitter posts.
+Dow Jones
+A data leak at Dow Jones & Co. compromised names, account information, physical and email address, and the last four digits of credit card numbers for millions of customers.
+The leak, discovered by UpGuard's Vickery, also affected 1.6 million entries in Dow Jones Risk and Compliance, a group of databases used among financial firms to comply with anti-money laundering regulations.
+All of the users' data was exposed in an AWS S3 bucket, which was misconfigured to let any AWS Authenticated User download data using the repository's URL.
+Because Amazon defines "authenticated user" as anyone with a free AWS account, the data was available to more than one million people.
+Dow Jones reports 2.2 million people were affected; UpGuard "conservatively estimates" the number is as high as 4 million.
+The publisher claimed there was "no reason to believe" any data was stolen and confirmed exposed information did not include full credit card number or login information that could pose a significant risk to customers.
+RNC
+Deep Root Analytics, a data analytics firm working on behalf of the Republican National Committee (RNC), exposed the personal data of 198 million American voters through an unsecured AWS S3 bucket.
+The compromised data included millions of records including birthdates, phone numbers, self-reported racial background, home and mailing address, and party affiliation.
+Deep Root's storage bucket was configured to public instead of private and as a result, its contents were viewable to the Internet.
+Most records had permissions to be downloaded and files could be accessed without a password, according to UpGuard, which also discovered and reported this leak.
+Following the Deep Root incident, experts warned about the danger of this information falling into the wrong hands.
+Microtargeting, for one, is a powerful tool in the possession of a cybercriminal who can use it for spearphishing and social engineering attacks.
+TigerSwan
+TalentPen, a third-party vendor responsible for handling new job applicants, compromised personal data of thousands of Americans through a misconfigured AWS S3 bucket that lacked password protection.
+Most of the 9,402 documents exposed were resumes and applications to work for private security firm TigerSwan.
+The mistake exposed personal information of individuals with classified security clearance, in some cases Top Secret.
+On top of security clearance, the files contained sensitive information including driver's license numbers, passport numbers, and at least partial Social Security Numbers.
+The leak exposed work histories for defense, intelligence, law enforcement, linguistic, and logistical experts employed by the United Nations, US Secret Service, Defense Intelligence Agency, Department of Defense, and Department of Homeland Security.
+"The exposed documents belong almost exclusively to US military veterans, providing a high level of detail about their past duries, including elite or sensitive defense and intelligence roles," reported UpGuard, which discovered and reported the leak to TigerSwan.
+Time Warner Cable
+Another leak demonstrating the dangers of outsourcing affected about four million Time Warner Cable (TWC) customers in the US.
+Kromtech Security Center found two AWS S3 buckets exposed on the Internet by global communication software and service provider Broadsoft.
+The company has more than 600 service providers and supports millions of subscribers.
+Partners include Time Warner Cable, AT&T, Sprint, and Vodafone.
+In this case, the two buckets contained "thousands of records and reports" for Broadsoft clients with TWC.
+This included internal development information like SQL database dumps, code with access credentials, and access logs.
+One text file contained more than four million records with information like user names, Mac accesses, serial numbers, account numbers, and transaction IDs.
+Other databases had addresses and phone numbers for TWC customers.
+Both buckets were configured for public access; Kromtech suggests the buckets were likely forgotten by engineers who never closed the public configuration and as a result, enabled anyone online to access the data.
+Anyone with an Internet connection could access sensitive data, and any "authenticated user" could download the data from the URL or using other applications.
+ES&S
+Another 2017 storage slip-up specifically affected "virtually every registered Chicago voter," reported UpGuard, which found the leak.
+A misconfigured AWS S3 bucket was left exposed and publicly downloadable by Election Systems & Software (ES&S), a prominent provider of voting machines and related software.
+The mistake compromised 1.8 million Chicagoans' personal information including names addresses, phone numbers, driver's license numbers, and partial Social Security numbers.
+The exposed database appeared to have been created around the time of the 2016 general election for the Chicago Board of Election Commissioners.
+https://www.darkreading.com/author-bio.asp?author_id=837
+Profile of Kelly Sheridan
+Associate Editor, Dark ReadingNews & Commentary Posts: 230
+Kelly Sheridan is Associate Editor at Dark Reading.
+She started her career in business tech journalism at Insurance & Technology and most recently reported for InformationWeek, where she covered Microsoft and business IT.
+Sheridan earned her BA at Villanova University.

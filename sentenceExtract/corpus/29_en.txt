@@ -1,0 +1,29 @@
+﻿A.Bhttp://www.darkreading.com/endpoint/financial-services-sector-the--1-target-of-cybercriminals/d/d-id/1328775?
+Financial Services Sector the #1 Target of Cybercriminals
+5/1/2017
+04:00 PM
+Kelly Sheridan
+Financial Services Sector the #1 Target of Cybercriminals
+New IBM report finds the most frequently targeted industry in 2016 was financial services - where attacks increased 29% year-over-year.
+Cybercriminals go where the money is. More attackers are launching attacks on financial services institutions, which saw an increase in breached records, vulnerability disclosures, and DDoS attacks via IoT botnets in 2016.
+The IBM X-Force Threat Intelligence Index discovered financial services topped the list of industry-specific targets, with 65% more attacks than the average organization across all industries. Attacks on the sector increase 29%, from 1,310 in 2015 to 1,684 in 2016.
+"The primary goal is money," says Dave Hylender, senior network engineer at Verizon. "That is the driving force behind most of these attacks."
+Financial services organizations cut the intermediary step between cybercriminals and the funds they seek. Hackers can obtain troves of data in attacks on healthcare organizations, but they have to take additional steps to monetize that information and open fraudulent accounts.
+However, money is more easily accessible if you can get malware onto bank systems, he explains. Threat actors can access usernames and passwords, withdraw money, and create fake debit cards, among other illicit activities.
+B.C"Financial services targets will always be a lucrative reward if successfully compromised," says Michelle Alvarez, threat researcher at IBM X-Force. "Healthcare and retail targets can be profitable, but with financial services, they're going straight to the source."
+In 2016, financial services companies saw the number of compromised records skyrocket 937% to exceed 200 million. There are many motivators behind cybercrime; in addition to financial gain, threat actors may seen intellectual property and trade secrets, says Hylender.
+Where are attacks coming from? IBM's data shows there are more insider-born attacks (58%) than outsider attacks (42%) on financial services -- but most insiders don't know they're causing harm.
+More than half (53%) of insider attacks come from are "inadvertent actors" compromised via phishing attacks, or internal attacks from another networked system. Financial services experienced the highest level of threat from inadvertent actors, the report states.
+Denial-of-service attacks and Web attacks are other top concerns, says Hylender. Verizon's Data Breach Investigations Report (DBIR), released last week, found financial and insurance companies suffered about six times as many breaches (364) from Web application attacks compared with information services companies.
+Some businesses can afford to have their website go down for a day. Financial services organizations cannot, especially major banks with a prominent Web-facing presence, he continues. Web application attacks against banks started growing about three- to four years ago, and they remain a top threat to the industry.
+"If you're a financial services organization, you need to be protecting your Web presence," says Hylender. "That's where the bulk of your assets are, that's where your business is. You need to be putting controls around those."
+Malware researchers at IBM X-Force also discovered an increase in malware used to target business banking accounts. Commercial malware made a comeback, and IBM monitored clients frequently targeted by SQL injection and shell-command injection attacks.
+"We saw this trend begin to pick up speed in mid-2014, with malwre such as Dyre, Dridex, GozNym, and TrickBot to target business banking services," says Alvarez.
+She advises companies to evaluate their cybersecurity "immune system" to find their weaknesses and ask questions like: Are your endpoints secure? Is there sufficient understanding of current threats? Do you have the appropriate identity management solution in place?
+Hylender encourages keeping a close eye on employee activity to ensure everyone only has access to information they really need. Businesses should also implement multi-factor authentication for all web applications, he says.
+Employee training is also key, Alvarez adds. They should be taught to identify suspicious emails so businesses can avoid falling victim to phishing scams and minimize their risk of attack via inadvertent actors.
+http://www.darkreading.com/author-bio.asp?author_id=837
+Profile of Kelly Sheridan
+Associate Editor, Dark Reading
+News & Commentary Posts: 115
+Kelly Sheridan is Associate Editor at Dark Reading. She started her career in business tech journalism at Insurance & Technology and most recently reported for InformationWeek, where she covered Microsoft and business IT. Sheridan earned her BA at Villanova University.

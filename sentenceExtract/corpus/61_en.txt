@@ -1,0 +1,52 @@
+https://www.informationweek.com/strategic-cio/digital-business/how-to-use-blockchain-10-use-cases/d/d-id/1330652?
+12/18/2017
+08:00 AM
+Cynthia Harvey
+How to Use Blockchain: 10 Use Cases
+Forward-thinking enterprises are investigating innovative uses for this distributed ledger technology.
+Many experts predict that blockchain will soon have a huge impact on global business.
+For example, Gartner has said that in the long term, blockchain "will lead to a reformation of whole industries." In a separate report, the firm said that blockchain technologies "should not be ignored. They offer the potential for substantial change in technology development and delivery as well as in how the economy, business and society operates."
+Forrester wrote that blockchain's "potential is undeniable: Blockchain technology, if implemented appropriately, supports new business and trust models. It's still the early days, but let's not forget — the Internet was young once, too."
+And the World Economic Forum stated, "Blockchain, or distributed ledger technology, could soon give rise to a new era of the Internet even more disruptive and transformative than the current one. Blockchain's ability to generate unprecedented opportunities to create and trade value in society will lead to a generational shift in the Internet's evolution."
+Blockchain is the technology that provides the foundation for the cryptocurrency Bitcoin, and the recent meteoric rise in Bitcoin value has only intensified interest in blockchain technology.
+But while many business and IT leaders have heard that they need to be involved in blockchain, many aren't exactly sure what blockchain could offer them.
+Blockchain is often described as a "secure distributed ledger." It's "secure" because it's encrypted and because once they are recorded to the blockchain ledger, transactions can't be edited or deleted. Blockchain is "distributed" because the data is spread across hundreds or thousands of nodes that are part of the network. That distributed nature also helps provide an extra level of security, because while it might be easy to hack into one centralized system, it's much harder to hack thousands at once. It's a "ledger" because it records time-stamped transactions. When they are saved, those transactions are grouped together into blocks, which are then linked together to create chains, hence the name "blockchain."
+While the most obvious application for blockchain is to process financial transactions, enterprises and vendors are exploring lots of other uses for the technology. The slides that follow look at 10 of these possible blockchain use cases in greater detail.
+1. Tracking Food (And Other Goods)
+Image: Pixabay
+A UK-based software company called Provenance has pioneered one of the more interesting and innovative uses of blockchain technology. As consumers have become more interested in where their food originates, retailers and restaurants are looking for ways they can make sure that the ingredients they are getting are exactly what they expect.
+Provenance has created blockchain-based software, which when combined with tracking technology, can securely trace the entire journey of ingredients from the point where they were harvested to the final consumer point of purchase. At every step along the supply chain, unalterable data is added to the blockchain, giving consumers complete confidence about what they are eating. Companies have used the software to ensure that tuna was sustainably harvested, that farmers received a fair price for their coconuts and that the produce on supermarket shelves really is organic. The technology can also be used to track the point of origin for clothing or even valuable goods like artwork or diamonds.
+2. Secure Software Development
+Image: Pixabay
+For defense contractors, cybersecurity is a critical concern. Vendors that supply software to the US federal government face particularly intense challenges, because if an attacker could insert malware into, for example, weapons targeting software, the country's military capabilities could be compromised. Lockheed Martin and Guardtime Federal worked together on a blockchain-based tracking system designed to ensure the security of the code Lockheed Martin provides to the government. The companies now track every step of the development process with a blockchain-based system that securely stores development lifecycle data and also speeds the process of finding any problems in the code.
+3. Digital Content Management
+Image: Pixabay
+The Internet has forever changed the distribution of entertainment content like movies, music, books, and games — and from the perspective of the content creators, not all of those changes have been positive. The Web makes it all-too-easy for consumers to pirate content without paying the artists who created that content. Several startups, including Ascribe, are working on blockchain-based tools to help manage copyrights, attribution and payment for digital media consumption. The secure distributed ledger system makes it easier to prove authorship of content and possible to track who has accessed content.
+4. Healthcare Records
+Image: Pixabay
+Through projects like DokChain, developers are working on blockchain-based applications for tracking electronic health records and other types of medical data. Blockchain makes it possible to store a complete and accurate record of all of the health care a patient has received in his or her lifetime. The data is encrypted for protection, but the patient would be able to grant providers access to the data as desired.
+In addition, anonymized data could be made available to researchers. As a result, individual patients could be certain that their doctors, hospitals and pharmacies would have access to all the relevant data from their medical history, and researchers could gain access to detailed records that could help them spot new correlations and offer suggestions for better treatment of the population at large.
+5. Mortgage Approvals
+Image: Pixabay
+Anyone who has purchased a home with a mortgage knows that the process is usually long and torturous. Borrowers must assemble a host of documents, such as pay stubs, tax returns, bank statements, receipts and many others, which bank staff then manually input into their systems. Blockchain-based solutions could give consumers the option of storing their financial data in a secure distributed ledger, which they could then share with lenders. That could dramatically speed up the mortgage approval process. And, analyzing anonymized data could help financial institutions do a better job of determining which loans to approve.
+6. Insurance Claims Processing
+Image: Pixabay
+Fraud is huge problem for the insurance industry, and many organizations are hoping that blockchain-based solutions could help them cut down on fraudulent payments. By tracking customer interactions in a secure distributed ledger, insurers could reduce the likelihood of double payments for the same claim. It could also help streamline complicated subrogation issues when multiple firms are involved in an incident. IBM has a detailedwhite paper that explains in more detail how blockchain applications could benefit insurance companies.
+7. Audit Trail
+Image: Pixabay
+In some types of companies, particularly law firms and accounting firms, organizations need to have an immutable record of the conversations, data, and documents transferred between two or more parties. Several different startups offer software that can provide an audit trail for these data exchanges. PDF documents, either encrypted, unencrypted or hashed, can be stored in the blockchain database, along with metadata showing who added the documents to the blockchain and when. This kind of recordkeeping can be invaluable in legal cases or in other situations where an organization needs an unalterable record of actions it has taken.
+8. Voting
+Image: Pixabay
+While electronic voting is undeniably more efficient than paper ballots, many people worry about the security of the electronic voting systems and the possibility of vote tampering. But storing voting records in a secure blockchain could help guarantee the authenticity and reliability of the electronic voting process. The technology could be applied to both political elections and other types of voting, such as the election of corporate board members.
+While jurisdictions haven't yet begun adopting blockchain-based voting, startup Votem has developed technology that would make it possible to vote securely via a mobile device, with voting records stored in a blockchain ledger.
+9. Smart Contracts
+Image: Pixabay
+One of the most frequently discussed applications of blockchain is the ability to create smart contracts. The open source project Ethereum (which is also the name of a digital cryptocurrency) is probably the best-known smart contract platform. Smart contracts automatically transfer money as appropriate when certain conditions are met, without going through an intermediary like a bank, escrow company, or credit card issuer. For example, a business could enter into an Ethereum-based smart contract with a supplier so that when goods from the supplier arrived at its warehouse (as noted by Internet of Things sensors), the supplier automatically received payment.
+10. Cryptocurrency
+Image: Pixabay
+Of course, the most obvious application for blockchain technology is digital cryptocurrency. Bitcoin is the most famous of these cryptocurrencies, but there are many others, like Ethereum and Litecoin. For businesses, blockchain-based currency offers a new, secure way to make and receive payments without going through a bank. Transactions are immediate and secure. And because cryptocurrency values have been escalating rapidly, some trading firms have been investing in Bitcoin futures as a way to generate revenue.
+https://www.informationweek.com/author-bio.asp?author_id=2362
+Profile of Cynthia Harvey
+Contributor, NetworkComputing
+News & Commentary Posts: 23
+Cynthia Harvey is a freelance writer and editor based in the Detroit area. She has been covering the technology industry for more than fifteen years.

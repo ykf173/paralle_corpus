@@ -1,0 +1,25 @@
+https://www.darkreading.com/endpoint/fileless-attacks-jump-94--in-first-half-of-2018/d/d-id/1332686
+8/28/2018
+05:00 PM
+Kelly Sheridan
+Fileless Attacks Jump 94% in First Half of 2018
+While ransomware is still popular, fileless and PowerShell attacks are the threats to watch this year.
+A snapshot of the threat landscape from the first half of 2018 shows fileless and PowerShell attacks are the ones to worry about this year, security analysts report.
+Endpoint security firm SentinelOne today published its "H1 2018 Enterprise Risk Index Report," which shows fileless-based attacks rose by 94% between January and June. PowerShell attacks spiked from 2.5 attacks per 1,000 endpoints in May 2018 to 5.2 attacks per 1,000 endpoints in June. Ransomware remains popular, ranging from 5.6 to 14.4 attacks per 1,000 endpoints.
+The rise of fileless and PowerShell attacks wasn't a major surprise to Aviram Shmueli, SentinelOne's director of product management and leader of this report, who says the two are especially appealing to threat actors who want to fly under their targets' radar.
+"Fileless attacks are more sophisticated; they don't leave any trace," he explains, adding that these types of threats are increasingly common in user data. The PowerShell spike "tells us PowerShell [attacks] are here to stay," Shmueli says. Fileless, lateral movement, and document attacks made up 20% of all attacks analyzed in the report.
+Fileless and PowerShell attacks are powerful, and attackers can leverage either to do significant damage, he says. It's worth noting the two can overlap: PowerShell lets actors access internal components and can be fileless in nature, enabling them to evade detection.
+This report isn't the only one pointing to the popularity of PowerShell among cyberattackers. Earlier this year, McAfee published findings indicating a 267% spike in fileless malware samples spreading PowerShell in the fourth quarter of 2017 alone, compared with the same time period one year prior.
+When it comes to which threat is easier to execute, Shmueli says PowerShell might be the more accessible option. "PowerShell is already installed on Windows systems, so attackers can rely on the fact that it's already there without installing anything else," he adds. "This is why we believe attackers choose to use this vector so frequently."
+However, the simultaneous increase in fileless attacks indicates threat actors are becoming more sophisticated and turning toward advanced forms of cybercrime. It's becoming less difficult for them to create payloads that won't get caught, complicating defense for targets.
+Researchers investigated the drivers behind the recent spikes in fileless and PowerShell attacks but couldn't point to a specific reason driving the increase. This seems to be more of an overall growing trend than a spike related to a particular campaign.
+While all three threat vectors are popular, Shmueli says companies should be most cautious about fileless campaigns. The 2018 spike was preceded by an incremental rise in fileless malware that is likely to continue.
+"I believe that we will see a growing number of fileless attacks and PowerShell attacks," he adds. As for ransomware, he's not so sure. "The trend is not so constant," he admits. SentinelOne will continue to release these types of reports on a quarterly basis.
+https://www.darkreading.com/author-bio.asp?author_id=837
+Profile of Kelly Sheridan
+Staff Editor, Dark Reading
+Member Since: 11/15/2013
+Author
+News & Commentary Posts: 449
+Comments: 4
+Kelly Sheridan is the Staff Editor at Dark Reading, where she focuses on cybersecurity news and analysis. She is a business technology journalist who previously reported for InformationWeek, where she covered Microsoft, and Insurance & Technology, where she covered financial services. Sheridan earned her BA in English at Villanova University. You can follow her on Twitter @kellymsheridan.

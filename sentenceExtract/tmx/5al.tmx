@@ -1,0 +1,1356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+	<header adminlang="EN" creationtool="self_create" srclang="EN"/>
+	<body>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>SANS Institute InfoSec Reading Room</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>SANS 研究院信息安全阅览室</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Reposting is not permitted without express written permission.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>本报告来自 SANS 研究所阅览室网站，在没有书面许可的情况下禁止转载。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Exploits at the Endpoint: SANS 2016 Threat Landscape Survey</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>终端漏洞：2016 年 SANS 威胁形势调查</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>The perfect storm it is upon us: Users with their many devices are falling victim to phishing and ransomware at alarming rates, with user actions at the endpoint representing the most common entry points allowing threats into organizations.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>完美风暴即将来临： 拥有多台设备的用户正以惊人的速度成为网络钓鱼和勒索软件攻击 的受害者， 而用户在终端的行为表明这是允许威胁进入组织机构最常用的入口点。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Results reveal that ransomware, which spreads by phishing and web downloads, is the No. 1 type of malware making its way into organizations.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>结果表明 通过网络钓鱼和网页下载传播是勒索软件进入组织机构内部的头号恶意软件。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Read on to learn more.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>查阅了解更多。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Copyright SANS Institute Author Retains Full Rights</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>版权归 SANS 研究所作者全权所有</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Exploits at the Endpoint: SANS 2016 Threat Landscape Survey</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>终端漏洞： 2016 年 SANS 威胁态势调查</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>©2016 SANS™ Institute</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>SNS 调查 李•尼利著 2016 年 8 月 CHECK POINT 软件技术有限公司赞助</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Executive Summary</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>执行摘要</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>The perfect storm is upon us: Users with their many devices are falling victim to phishing and ransomware at alarming rates, based on the results of a new SANS survey taken by 301 IT professionals.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>完美风暴即将来临：基于 SANA 301 IT 专家新的调查结果表明，拥有多台设备的用户 正以惊人的速度成为网络钓鱼和勒索软件攻击的受害者。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>In it, user actions at the endpoint represent the most common entry points allowing threats into organizations.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>调查中， 终端用户的行为表明允许 威胁进入组织机构是最常见的进入点。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Results reveal that ransomware, which spreads by phishing and web downloads, is the No. 1 type of malware making its way into organizations.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>结果表明通过网络钓鱼和网页下载传播是勒索软件进入组织机构内部头号恶意软件。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>In the survey, this scenario repeats itself industrywide, indicating a dangerous trend.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>调 查中，该情境重复出现在行业中，预示着有危险趋势。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>TAKEAWAY: Given the reliance on user interaction for propagation and the prevalence of ransomware, users—through no fault of their own—have become the biggest threat.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>例如洛杉矶医院 2016 年 2 月遭遇勒 索攻击，所有电子病历被锁数小时，法律公司，学校甚至市政府都成为攻击的受害者。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>1 75% 46% 41%</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>4 月 份，FBI 估计 2016 年勒索软件有 10 亿美元的市场，仅 2016 年前三个月网络罪犯就攫取 了 2.09 亿美元的巨款。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>a $1billion ransomware market for 2016, with $209 million collected by cybercriminals in the first three months of 2016.2 Of threats discovered by survey takers, 39% bypassed the network gateway firewalls, and 37% went undetected by IDSes, while endpoint security tools detected half, and routine operations uncovered 85% of threats inside the enterprise.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>调查人员发现 39%的威胁绕过了网关防火墙，37%未被 IDSES 检测到，而终端安全工 具只能检测到 50%，但日常操作却可以发现企业内部 85%的威胁。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>In our connected and cloud-based world, solutions that adapt to the changing work environment are necessary to keep users, their devices and the networks they use out of trouble.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>这强化了过度依赖签名 和已知模式检测、阻止威胁的风险。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>The purpose of this survey was to uncover the threats organizations encounter in the real world, when and how they become incidents, how organizations rank threats and what defenses continue to work.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>在互联网连接和基于云的世界中， 解决方案不断适应变化的工作环境是很必要的， 以保 持用户，其设备和使关于受访者 本调查的目的在于揭露组织机构在现实世界中遇到的威胁， 什么时候遇到威胁， 如何演 变成事故，组织机构如何对威胁排名，什么样的防御仍可以用。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Essentially, we wanted to learn what threat scenarios keep IT managers and security professionals awake at night and the best means of combating them.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>我们想从根本上弄清是什么 威胁情境使得 IT 经理和安全专家夜以继日的攻关，以便想出应对威胁的最佳方法。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>IT Ops and Security Professionals</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>IT 选择与安全专家</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>The survey was completed by 301 IT and security professionals, balanced between respondents with security roles and those with IT roles: 33% were security administrators or analysts, 11% system administrators or analysts, 11% IT managers or directors, and 9% were in security management.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>该调查由 301 IT 与安全专家共同完成， 从事安全的受访者与从事 IT 的受访者都有参与 调查：其中 33%是安全管理员或分析员，11%是系统管理员或分析员，11%是 IT 经理或主 管，另有 9%从事安全管理。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Although some threats are industry specific, the overall results indicate that we all face the same primary threats such as phishing, ransomware and Trojan horses.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>这些人是身处威胁与威胁响应的主要人员，也代表了 SANS 总 的会员群。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Size and Type of Industry</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>产业大小与类型</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>The top seven industries represented by our respondents are government, banking/ finance, technology, healthcare, education, cyber security and manufacturing.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>排名前七的受访者代表分别来自政府、银行/金融、科技、医保、教育、网络安全以及 制造业等领域，没有一个行业能够置身事外。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>No industry is exempt from threats.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>虽然有些威胁针对具体的行业，但总体结果表</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Although some threats are industry specific, the overall results indicate that we all face the same primary threats such as phishing, ransomware and Trojan horses.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>明我们面临的主要威胁大致相同，例如网络钓鱼，勒索软件和木马，见表一。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>The responses reflect input from IT professionals from companies of different sizes, with 28% coming from small to midsize companies (101–1,000 employees); 14% representing very small companies (fewer than 100 employees); then a relatively even split between medium companies (1,001–2,000 employees), large (2,001–5,000 employees) and very large (15,001–50,000 employees).</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>受访者的回答反映了不同大小公司的 IT 专家投入的资源不同，28%的资源来自中小型 公司（101-1000），14%代表极小型公司（员工数少于 100），而中型公司（员工数 1001-2000），大型公司（2001-5000）以及超大型公司（15001-50000）资源投入相对 平均。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>See Figure 2.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>见表 2.用的网络远离麻烦。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Fewer than 100</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>全球范围</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>SANS ANALYST PROGRAM</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>威胁的分布不受地理位置的局限。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>In this survey, respondents were from around the world, and all indicated experiencing similar phishing and ransomware threats.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>在调查中，受访者来自世界各地，这一切表明他们都 遭遇了相似的网络钓鱼和勒索软件威胁。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>See Figure 3.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>大多数公司总部位于美国， 还有一部分集中在欧洲 和亚洲，见表 3。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>U.S. responses were about 2.3 times the volume of European responses; however, results were similar between regions.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>美国的受访者的回应是欧洲的 2.3 倍，但两地之间结果相似。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>SANS ANALYST PROGRAM</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>网络钓鱼，包括鱼叉式网 络钓鱼和捕鲸， 与恶意软禁结合对欧美两地构成最大的威胁， 但两地受访者的对威胁的排名 略有不同，见表 1 欧美地区具体的细目表。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>In Europe, calls to the help desk are tied with “log or event review” for fourth place, whereas in the U.S. they were the second top means by which significant threats are discovered.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>在欧洲，向服务台呼叫求助与“日志或事件检查”排在第四位，而在美国这是他们发现 重大威胁排在第二的方法。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>In the U.S., monitoring for unusual activities is last on respondents’ list of how they discover such threats, as opposed to being the top means of discovery, as it was in Europe.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>监视异常活动是美国受访者最不愿用于发现威胁的方法， 与此相 反， 这是欧洲发现危险使用最多的方法。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>These results show that how organizations find threats is the only variable in which European and U.S. differences manifest themselves.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>结果表明如何发现威胁是欧美两地唯一不同的地方。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>However, for the most part, location was not significant, except that the European respondents may be ahead of their U.S. counterparts in deploying automated monitoring and alerting solutions.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>然而，大多数情况下，地理位置并不是很重要，除非欧洲受访者先于美国部署威胁自动 监测、警报解决方案。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>The Threat Landscape</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>威胁态势</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Just over 80% of respondents’ organizations reported having a phishing incident in the past 12 months, and 27% said those threats resulted in a significant impact.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>在过去的 12 个月中， 只有 80%多的受访者称公司遭受了网络钓鱼事件， 27%表示对他 们造成了重大影响。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Spearphishing or whaling occurred in 58% of organizations, with 13% reporting a significant impact.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>58%的公司发生过鱼叉式网络钓鱼和捕鲸攻击，有 13%报告影响重大。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>The survey was completed by 301 IT and security professionals, balanced between respondents with security roles and those with IT roles: 33% were security administrators or analysts, 11% system administrators or analysts, 11% IT managers or directors, and 9% were in security management.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>49%的受访者称与勒索软件比， 19%的人认为木马事件会产生重大影响，见表 4。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>40%</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>勒索软件危害宣传的条件已成熟。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Size and Type of Industry</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>首要报告的威胁（网络钓鱼、鱼叉式攻击或捕鲸和勒索软件）将会消耗我们很多精力， 而低一级别的威胁仍在那里不能被忽视：木马，DDOS 和 APT 将是下一个需要考量的的因 素。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>On the Rise</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>持续增加</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>The lower occurrence of worms and keyloggers is also noteworthy.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>再次申明紧接网络钓鱼之后的勒索软件， 鱼叉式网络钓鱼和捕鲸， 是入侵公司增长最快 的威胁类型。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>See Figure 5, which reflects responses of only those respondents who knew whether they were seeing changes in frequency of these threats.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>同时，我们也需注意蠕虫和键盘记录器等威胁的出现。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Phishing, Ransomware, Spearphishing Most on the Rise</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>表 5，反映了那些知道 威胁频率是否变化的受访者的回答。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>As these phishing and ransomware trends intersect, they create the perfect storm for legitimate user actions to result in significant, costly consequences to the organization, such as having to pay tens of thousands of dollars in ransom to retrieve critical access to maliciously encrypted data or to regain control of keys, or experiencing service denials that cause loss of business.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>随着网络钓鱼和勒索软件相互交叉的趋势， 它们为合法用户行为创建的完美风暴， 导致 公司损失惨重， 例如不得不支付数万美元赎金取回被恶意加密重要数据的访问权或重获键盘 控制权或遭遇拒绝服务攻击造成的业务损失。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>To respondents, the significance of the impact is tied to key corporate concerns: the cost to recover and the loss of sensitive information.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>对受访者来说， 攻击产生的重大影响令主要公司担忧： 包括恢复的成本和敏感信息丢失。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Clearly, IT professionals know what’s at stake.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>很明显，IT 专家知道其中的利害。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Organizations should look at their environments holistically, even in the midst of a breach, as they make decisions on applying tools or updating policies and processes.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>受访者也列出了攻击对公司品牌、 名誉和数字认证的危害， 作为评判是否是重大事件的 指标。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Respondents also listed damage to brand or reputation and compromise of credentials as indications of a significant incident.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>但有趣的是， 攻击事件导致在新工具与新进程的投资排名是比对公司经济损失更重要 的指标。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>DDoS affected availability</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>威胁如何进入</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>See Figure 7.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>威胁进入受访者公司的最常用的方法是通过邮件附件， 点击邮件链接， 经隐藏网驱或隐 藏下载，见表 7。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>This hints at gaps in our protections, either technical or administrative, which include training users not to click on links or attachments, because these are the principal ways ransomware infections start.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>这暗示着我们的安全防护存在缺口，要么是技术防护层面，要么是管理层面，包括培训 用户不要点击链接和附件因为这是勒索软件感染的主要方式。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Retail</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>可行的安全策略。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Gaps in Protections Based on survey results, we know that user, operational and technical gaps leave vulnerabilities that allowed threats to bypass existing endpoint security: • User gaps.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>因此，终端安全工具，服务台操作和安全团队应齐心协力自主进行培训和 预防。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Despite advances in network and endpoint security, email monitoring, threat intelligence and event management, attackers take advantage of deployments in detection-only mode, conducting attacks or establishing footholds for APT activity before defenders are able to remediate events. • Technical gaps.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>同样，随着恶意软件不断发展，特征标记也发生了该变，因此在向供应商到检测设施商 宣传其特征标记之前， 新的恶意软件无法被检测到。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>The same is true for network devices monitoring for threats active in their networks, as shown in Figure 8.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>同样网络监测设备也无法监测到活跃在 网络中的威胁，见表 8.</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>TAKEAWAY: Users should only be able to reach vetted web services from the corporate network.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>防火墙/下一代防火墙（NGFW），IDS/IPS 和沙箱都捕获了一些威胁，但显然数量不 够。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>some of the threats, but clearly not enough of them.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>检测的成功有赖于网络防护的设置。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>A threat could evade network security via a hotspot or thumb drive; or worse, if an organization filters or blocks only inbound connections, malware could then communicate externally, download additional material, be commanded to move laterally within the organization or otherwise evolve unchecked.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>通过热点或拇指驱动器，威胁可以避开网络安全检 测，更糟的是，如果某公司仅过滤或拦截入站连接，恶意软件可能从外部通信，下载额外的 资料，接受命令在公司内部横向移动或不经检测。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>For decades, the detection of threats was principally a matter of catching the right information because it matched a database of known threat signatures.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>数十年来，威胁检测主要在于获取正确的信息，因为需与已知威胁标记数据库相匹配。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Results of this survey show that threats without signatures will not be detected reliably.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>本次调查结果表明未标记威胁无法正确检出。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Some 83% find endpoint scanning helpful, while 70% find IDS/IPS/unified threat management (UTM) systems helpful, even though today’s threats are mostly slipping past them.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>83%的人发现终端扫描有帮助，而 70%的人 发现 IDS/IPS/统一网关系统有帮助，即使是今天的威胁都很难逃过检测。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Network monitoring/deep packet inspection (DPI) and threat intelligence are also helpful, according to respondents, as illustrated in Figure 9.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>据受访者在图 9 中表示网络监测/深度包检测（DPI）和威胁情报在威胁检测方面效果也还不错。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Threat hunting</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>还存在扩展网络边界的机会，包括无论用户身在何处都可以享受移动保护和远程服务。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>For example, a VPN that simply relays traffic from a mobile endpoint to the Internet, not providing corporate services, with strong but automatic authentication, could help protect the user regardless of location or network connection security.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>例如， VPN 仅转接从移动终端到互联网的流量， 而不是给公司提供强有力的自动验证服务， 可以帮助保护用户无论其位置或网络连接是否安全。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>(CONTINUED)</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>虽然从新识别的威胁中订阅威胁情报资源对蓝 队增强安全意识，自动机制防护实施（拦截，观察，通知等）很重要。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>In most cases when threats are occurring, analysts don’t have time to implement new controls manually before the threat manifests itself.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>但通常数情况下，在 威胁自己显露之前分析员没有时间手动实施新的控制措施。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Threats, Vectors and Incidents</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>威胁，矢量和事件</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>When describing the ecosystem of an attack, we need to start with definitions.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>在表述攻击生态系统之前，我们需要先下定义。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>“By commonly used definitions, the user is a threat, not a vulnerability.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>SANS 互联网风暴中心精心收录了下列 术语在行业中的标准定义：  威胁是指可能扰乱网络安全，当有环境，能力，行为或事件可能违反安全、造成伤</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>What the user does may be a vulnerability.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>害时存在。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>The user’s behavior, the user’s lack of knowledge, the process the user relies on … those may have vulnerabilities.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>   威胁矢量是威胁用来攻击目标的方法。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>But the user is not a vulnerability, just as a criminal is not a vulnerability.” —Ed Skoudis, Pen Test Curriculum Lead and Faculty Fellow, SANS Institute • A threat is a potential for violation of security, which exists when there is a circumstance, capability, action or event that could breach security and cause harm. • A threat vector is the method a threat uses to get to the target. • An incident is an adverse network event in an information system or network or the threat of the occurrence of such an event.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>事故是信息系统、信息网络或出现威胁事件时一种不利的网络事件。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>More than 100,000</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg> 所有的攻击点是如何形成攻击面并为攻击者创建了一个成熟的生态系统的？</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>The attacker looks for weaknesses in the system to define the attack surface.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>攻击者寻找系统漏洞以定义攻击面。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Once he or she identifies an attack surface that includes a threat vector the attacker can leverage, the attacker can use that vulnerability to compromise the system.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>一旦发现包含威胁矢量的攻击面可以利用， 攻击者 可以利用该漏洞入侵电脑。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>5,001–10,000</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>为远程控制服务器创建立足点。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>The attacker may then have someone call the user to entice him or her to click the link and run the malware, or even direct the user to a “safe” alternative, which is also malware.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>然后可能让人怂恿用户点击链接、运行恶意软件、甚至引导 用户进入“伪安全”恶意软件链接。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>There is usually more than one viable attack vector or vulnerability, which is why defensive measures are so important to get right.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>通常可行的攻击载体、漏洞的方法多样，这也是为什么 采取正确的防御措施是如此的重要。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>The Threat Landscape</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>获取标记之外的特征</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>The most common call to action is to whitelist everything that’s allowed to operate on an endpoint.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>现代威胁具有适用性特征没有现成的标记可供扫描，例如 ZERO-DAY 漏洞，这意味者 我们需要新的机制阻止威胁攻击。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Another means is to install behavior-based detections, where threat detection tools flag and stop anomalous or nefarious actions (such as unapproved system calls, suspicious user activities, unusual traffic, etc.), rather than looking solely at specific binaries for known signatures.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>最常用的方法有两种， 其一把所有允许在终端操作的应用 列入白名单， 另一种方法是安装基于行为的检测工具， 它能够标记、 阻止异常和恶意行为 （例 如系统非授权调用， 可疑用户行为和异常流量） 而不仅仅是检查已知具体标记的二进制文件。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Organizations should take actions to ensure that corporate network protections, such as strongly authenticated VPN, travel with mobile workers.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>组织机构应采用措施确保公司网络安全， 例如加强 VPN 验证， 加强出差员工手机验证。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Keep corporate assets in protective envelopes with session sandboxing and other techniques.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>用会话沙箱和其它技术把公司资产置于信封保护之下。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>This includes requiring access to those services through corporate network controls, even for outsourcers, to keep the corporate protections embedded in the communication path.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>而这要求包括通过公司网络控制获取 服务，即使是外包商与公司沟通也需在通讯路径嵌入公司防护程序。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Reliance on a single solution or single point of protection may leave gaps in your coverage.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>我们建议采用多种解决方案配合使用以保护网络和终端设备， 因为依赖单一解决方案或 单点防护可能无法全面保护。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Employ a defense-in-depth strategy, with varying tools on the endpoint, desktop, server, network and in-line with web browsing to increase the coverage and prepare for threats at multiple layers.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>利用各种终端工具，台式机、服务器、网络配合网页浏览器部 署深度防护策略以增加防护面、为多层次威胁作准备。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Most important, use automation to protect users from making mistakes that will be costly.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>最重要的是，使用自动化程序防止用户犯错，成本太高了。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>For example, include appropriate restrictions and protections relating to the introduction of removable media and software installation and vetting.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>例如，包含引入和可移除媒 介、 软件安装与审核相关的程序进行适当限制与防护。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>These restrictions, communicated through appropriate training, must work together to allow users to get their work done securely.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>这些限制必须通过适当的培训进行交 流，配合工作、达到安全完成工作的目的。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Holding Them Back</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>阻止威胁</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Lack of signatures for unknown threats, followed by lack of skills and budgets, are the primary reasons organizations lack confidence in their ability to detect and respond to threats.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>未知威胁缺少标记特征， 加之缺乏技巧、 预算是组织机构对威胁检测和反应能力缺乏信 心的主要原因。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>What challenges do you face in protecting against threats in your enterprise?</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>调查中，60%的受访者回应称，未加标记的未知威胁对他们防范威胁的能 力构成了挑战，另有 56%的人回应说受限于技术和预算未实施安全防护，见图 10。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>TAKEAWAY: Challenges with data collection from network and endpoint sources, correlation with observed and reported results, and impact analysis all stem from lack of the right skills with the right tools in place to target, defend and otherwise keep threats in check.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>如果没有技术和相应的预算实施控制，防护缺口会允许威胁从防护系统中溜走。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>If you don’t have the skills and the corresponding budget to implement controls, gaps in defense will allow threats to slip past the protections in place.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>而且， 几乎不可能实施新的解决方案修复防护系统中发现的缺口。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Furthermore, it will be almost impossible to implement new solutions to bridge any identified gaps in coverage.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>随着因用户带来威胁的证据增多，我们急需提升网络和终端防护等级。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Africa</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>仅有 12%的受访者表示在有效威胁造 成损失之前，他们自信有能力应对。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Another 26% feel very confident they could respond to threats.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>另有 26%的人非常自信可以应对威胁。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>In addition, the majority (52%) report they are confident or very confident that they have removed all artifacts of the threat during the remediation phase.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>另外，大多数人称（52%）他们自信或非常自 信在修复阶段已移除了所有的威胁工件。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Table 2.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>见表 2.</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Taken as a whole, the good news is that the majority feel confident or very confident in their ability to perform these tasks.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>总体看来，好消息是大多数人对其执行任务的能力感到自信或非常自信。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Operations and Headquarters</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>几分自信或毫无自信。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Clearly there is room to improve on all fronts.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>但很明显，各方还有提升空间。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>It’s important to realize that efforts to prevent impactful threats will also yield benefits by reducing the number of events requiring a response.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>意识到预防重大影响威胁所作的努力 的重要性在好处在于可以减少威胁事件响应的数量。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Impact of Threats</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>威胁的影响</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>While 43% of threats did not result in sensitive data loss, DDoS or other significant impact, 34% said 1–5% of their threats resulted in sensitive data loss, another 11% said their threats resulted in data loss 6–10% of the time, and 12% of threats resulted in data loss more than 10% of the time.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>虽然 43%的威胁未造成敏感数据丢失、DDOS 攻击或其它重大影响，34%的人说有 1%-5%的威胁导致敏感数据丢失， 另有 11%的人说威胁导致当时 6-10%的数据丢失， 12% 的威胁导致当时超过 10%的数据丢失。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Figure 11.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>见图 11.</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>This means that we’re finding threats quickly.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>这意味着我们需快速锁定威胁。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>The majority of respondents (70%) report that the time to discover a threat that actually became an incident takes less than 24 hours, and 64% remediate in under 24 hours, as shown in Figure 12.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>大多数受访者（70%）称发现一个威胁实际上要在事 件发现的 24 小时之内完成，在 24 小时内修补 64%，见图 12。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>These results seem to fly in the face of the lack of confidence respondents have in their ability to detect, respond to and remediate attacks.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>这些结果似乎是对缺乏自信的受访者无能力检测， 响应和修复攻击的公然蔑视。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>It is possible that respondents have underestimated the speed with which they are able to address threats.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>但也有 可能受访者低估了自己解决威胁的速度。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Discovering Threats</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>发现威胁</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Security personnel find most threats (85%) during routine operations, with 24% discovering them through routine vulnerability assessments, according to the survey.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>根据调查，安全人员在日常操作中发现了最多的威胁（85%），24%在日常漏洞评估 中发现了威胁。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>This is a good indication that most organizations have enough tools and processes to make detection part of their operational fabric.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>这很好的暗示了大多数机构有足够的工具和进程检测内部部分操作结构。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>(Of course, at the point where the user is contacting the help desk to request support, the malware has already had an opportunity to cause damage and potentially spread beyond that user’s system.)</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>有一半的受访者称终端安全工具成功发现了威胁，47%称通过用户呼叫服务台发现了 威胁（当然，在用户联系服务台寻求支持时，恶意软件已经有机会造成损失并可能传播到用 户系统之外的网络上）。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Figure 13 also reveals the limited effect of gateway security, discussed earlier in this paper.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>图 13 也揭露了安全网关的效果有限，在本文件之前已讨论过。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Just as endpoints and their users are part of the problem, this figure illustrates that they are also the most effective tools for detecting threats.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>正如终端和其用户只是问题的一部分一样， 该图阐明了它们也是检测威胁最有效的工具。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>17 Exploits at the Endpoint: SANS 2016 Threat Landscape Survey</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>随着终端安全工具从简单的反病毒检测引擎发展到反病毒检测系统用于检查文件， 邮件以及 和终端联系的网络流量，而且潜在攻击面的可见性也得到了提升。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Determining Impact</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>确定影响</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Organizations are using good, old-fashioned forensics to determine the impact of a given manifested threat.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>组织机构正用效果好， 过时的检查方法确定明显的威胁。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>They are also leveraging threat intelligence, most likely processed through their SIEM, which tied with threat intelligence in usefulness, as shown in Figure 14.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>它们也会利用与威胁情报有用 的情报，大多数可能通过自身的 SIEM 处理，如图 14 所示。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Organizations are also able to determine the root cause of significant threats at least 70% of the time, while 14% say they are not able to determine root cause and 16% don’t know.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>组织机构至少还能在 70%的时间内确定造成重大威胁的根本原因，而 14%表示无法确 定根本原因，另有 16%不知道可不可以确定。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Root cause determination processes are still dependent on associated manual processes.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>根本原因的确定仍然有赖于关联手动进程。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Respondents ranked their top choices for determining root cause as: 1) automated search, 2) interviews of affected parties and 3) automated hunting for unknown threats.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>受访者给确定根本原因的选择方式排了名： 1） 自动搜索， 采访受影响方， 自动寻找未知威胁。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Considering that most incidents involve multiple methods of investigation, the heavy reliance on manual methods (including interviews) is of concern as the volume of threats increases.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>2） 3） 第二个选择来源于手动日志分析， 手动终端数据分析和利用不同的工具和信息源自动搜索， 他们这种严重依赖手动的方法 （包 括采访）随着威胁量的增加会出现隐患。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>While organizations collect much of the right data, the tools they are using are unable to find it without manual intervention, as shown in Figure 15.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>虽然组织机构收集的数据正确，但他们使用的工具 在没有人的干预下无法发现威胁，见图 15。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>It is also important for knowing where and how to apply the best controls.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>该调查结果提醒了我们虽然我们安装了最大的检测和防护机制共同配合， 但用户和终端 设备是最常遭遇入侵的的原因，也是我们网络防护最重要的组成部分。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Despite the ever-growing landscape of detection-avoiding malware classes, endpoint security tools are still the primary detection method, followed closely by calls to the help desk.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>虽然避免检测的恶意软件种类在不断的增长， 但终端安全工具仍是主要的检测工具， 紧 接着是向服务台咨询。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>By that same token, our threat intelligence, monitoring, event review and SIEM tools also provide much discovery information, indicating that we are not reliant on the endpoint for all the heavy lifting here.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>同样，威胁情报、监测、事件评估和 SIEM 工具也给我们提供了很多 新发现的信息，表明我们这里所有的任务不依赖于终端设备。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>The call to action stems from the reliance on current endpoint detection in an area where the No. 1 source of malware (ransomware) is evolving and changing faster than signature-based detection services can stay abreast of the threat.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>呼吁采取行动来源于在某一区域依赖于当前的终端防护， 而在该区域出现最多的恶意软 件（勒索软件）升级，变化的速度是基于标记检测服务系统无法媲美的。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Next-generation protections both at the perimeter and within the network have to augment the endpoint security to detect malicious activity that may have started with the endpoint, such as unusual system calls, sensitive data transfers, and more.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>下一代的安全防护 将出现在周边区域， 网络内部必须增加终端安全以检测可能始于终端的恶意活动， 例如异常 系统调用，敏感数据转移以及其它。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>In addition, endpoint security must augment network security, and the tools should share their data for more real-time detection and prevention at the endpoint, where most threats originate.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>另外，终端安全必须增强网络安全，且工具应实时分享 监测数据并在大多数威胁起源处终端进行防护。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>It’s also important to enable mobile worker devices to continue to be protected by corporate services regardless of location so they never operate without a safety net.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>让外出员工继续在公司服务的保护之下， 而不考虑位置的变换， 因此他们不会暴露在风 险网络操作下，这也是很重要的。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Organizations also need behavior-based comprehensive threat analysis systems and extensive whitelisting to stay ahead of the current threat landscape.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>组织机构也需要基于行为全面分析威胁系统，并大量标记 威胁白名单时刻掌握当前的威胁态势。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Threats are always changing.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>威胁总是在不断的变化。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>For now, users and their devices are ground zero.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>目前，用户和他们的设备十分脆弱。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Phishing has turned to spearphishing and whaling exploits that are well-researched and convincing enough to get corporate officers to click links and download attachments that open their enterprises to risk.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>网络钓鱼变成了鱼叉式网 络钓鱼和捕鲸漏洞， 精心制作的网络钓鱼足以让公司主管点击链接、 下载附件将其公司置于 风险之下。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Ransomware is taking hold in organizations through the user endpoint and via phishing and drive-by downloads into browsers from the web.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>勒索软件已通过用户终端、经网络钓鱼和隐藏下载进入网页浏览器。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Under the current landscape, shoring up the end user/endpoint protections should be top priority for organizations that want to make the biggest impact on reducing their overall risk.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>在当前的形 势下，加强终端用户/终端设备防护应成为那些希望降低组织机构整体风险的当务之急。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>About the Author</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>关于作者</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Lee Neely, a SANS mentor instructor, teaches cyber security courses for SANS.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>李·尼利是 SANS 的导师，教授网络安全课程。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>He worked with the SANS SCORE (Security Consensus Operational Readiness Evaluation) project to develop the iOS Step-by-Step Configuration Guide, as well as the Mobile Device Configuration Checklist included in the SEC575 course.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>他曾参与 SANS SCORE 项目开发 IOS 分步配置指南， 以及移动设备配置清单包括 SEC575 课程。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>Lee holds the GMOB, GPEN, GWAPT, CISSP, CISA, CISM and CRISC certifications.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>李荣获 GMOB, GPEN, GWAPT, CISSP, CISA, CISM 和 CRISC 证书。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>At the Lawrence Livermore National Laboratory (LLNL), Lee leads LLNL’s cyber security new technology group, working to develop secure implementations of new technology, including developing the secure configurations, risk assessments and policy updates required for its corporate and bring-yourown-device mobile devices.</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>李曾在 劳伦斯利物莫国家实验室（LLNL）带领网络 安全新技术团队致力于开发新技术安全实施， 包括开发安全配置， 风险评估和公司要求的政 策更新与 BRING-YOUR- OWN-DEVICE 移动设备。</seg>
+		</tuv>
+		<tu creationdate="self_create" creationid="self" srclang="EN">
+			<prop tpye="Txt::Note">5al</prop>
+		</tu>
+		<tuv xml:lang="ZH">
+			<seg>21 Exploits at the Endpoint: SANS 2016 Threat Landscape Survey</seg>
+		</tuv>
+		<tuv xml:lang="ZH">
+			<seg>SANS 向该调查的赞助商致谢：</seg>
+		</tuv>
+	</body>
+</tmx>
